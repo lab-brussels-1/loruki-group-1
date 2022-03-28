@@ -25,7 +25,7 @@
 | _Carsiti_ |            |             |            |             |             |          |        |
 | _Maria_   |            |             |            |             |             |          |        |
 | _Minju_   | 10am - 1pm | 10am - 11am | 11pm - 2am | 10am - 11am | 10am - 12pm |    -     |   -    |
-| _Prince_  |            |             |            |             |             |          |        |
+| _zerubabel_ | 10am - 4pm, 10pm - 12pm | 9am - 5pm, 9pm - 12pm |       9am - 5pm        | 9am - 4pm, 10pm - 12pm | 9am - 4pm, 10pm - 12pm | 11am - 7pm | 9pm - 12am |
 
 ## Communication tools
 
