@@ -1,6 +1,5 @@
 # Planning
 
-
 - [ ] **Readme file**  
        Add info about the project, team
 - [ ] **Constraints**  
@@ -13,7 +12,8 @@
        Organize user stories into a Backlog by priority: must-have, should-have and
       could-have
 - [ ] **Design**  
-       Use our backlog and the original site as a guide, simplify the website into a wireframe.
+       Use our backlog and the original site as a guide, simplify the website into
+      a wireframe.
 - [ ] **Development strategy**  
        Translate our Wireframe and Backlog into a Development Strategy for the must-have
       user stories
