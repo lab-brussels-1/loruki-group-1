@@ -22,7 +22,7 @@
 - **Home Page**
   - As a user I can navigate the web page from a navbar
     - [ ] _there is a navbar at the top of the page with links to the different
-          sections_
+          section_
   - As a user I can contact us to learn more about our project
     - [ ] _there is a footer with contact info_
 
