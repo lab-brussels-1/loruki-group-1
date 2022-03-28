@@ -5,27 +5,27 @@
 <!-- any general rules you'd like to set for your group? -->
 
 - Everyone must be in the daily group call to update the working status.
-- Use discussion in the project board and communicate your issues as much as possible.
+- Use discussion in the project board and communicate your issues as much as
+  possible.
 
 ## Communication Schedule
 
-| Day       |  How  | The topic of discussion |
-| --------- | :---: | ----------------------- |
-| Monday    | 10:00 | Planning                |
-| Tuesday   | 10:00 | Discuss progress        |
+| Day       |  How  | The topic of discussion            |
+| --------- | :---: | ---------------------------------- |
+| Monday    | 10:00 | Planning                           |
+| Tuesday   | 10:00 | Discuss progress                   |
 | Wednesday | 10:00 | Closing issues related to planning |
-| Thursday  | 10:00 | Development             |
-| Friday    | 10:00 | Discuss Progress        |
-
+| Thursday  | 10:00 | Development                        |
+| Friday    | 10:00 | Discuss Progress                   |
 
 ## Availability
 
-| Day         |  Monday   |  Tuesday  | Wednesday | Thursday  |  Friday   | Saturday  |  Sunday   |
-| ----------- | :-------: | :-------: | :-------: | :-------: | :-------: | :-------: | :-------: |
-| _Carsiti_    | |  |  |  |  |  |  |
-| _Maria_ |  |  |  |  |  |  |  |
-| _Minju_     | 10am - 1pm | 10am - 11am | 11pm - 2am | 10am - 11am | 10am - 12pm | - | - |
-| _Prince_     |  |  |  |  |  | |  |
+| Day       |   Monday   |   Tuesday   | Wednesday  |  Thursday   |   Friday    | Saturday | Sunday |
+| --------- | :--------: | :---------: | :--------: | :---------: | :---------: | :------: | :----: |
+| _Carsiti_ |            |             |            |             |             |          |        |
+| _Maria_   |            |             |            |             |             |          |        |
+| _Minju_   | 10am - 1pm | 10am - 11am | 11pm - 2am | 10am - 11am | 10am - 12pm |    -     |   -    |
+| _Prince_  |            |             |            |             |             |          |        |
 
 ## Communication tools
 
@@ -43,7 +43,7 @@
 
 ## Daily meetup
 
-- _Zoom Call at 10 am_ 
+- _Zoom Call at 10 am_
 
 ## Asking for Help
 
