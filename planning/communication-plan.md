@@ -23,7 +23,7 @@
 | Day       |   Monday   |   Tuesday   | Wednesday  |  Thursday   |   Friday    | Saturday | Sunday |
 | --------- | :--------: | :---------: | :--------: | :---------: | :---------: | :------: | :----: |
 | _Carsiti_ |            |             |            |             |             |          |        |
-| _Maria_   |            |             |            |             |             |          |        |
+| _Maria_   | 9am - 4pm  |  9am - 4pm  | 9am - 11am |  9am - 4pm  |  9am - 4pm  |          |        |
 | _Minju_   | 10am - 1pm | 10am - 11am | 11pm - 2am | 10am - 11am | 10am - 12pm |    -     |   -    |
 | _Prince_  |            |             |            |             |             |          |        |
 
@@ -37,7 +37,7 @@
 ## Hours Spent for discussion per day
 
 - Carsiti : **_ hours_**
-- Maria : **_ hours_**
+- Maria : **_5 hours_**
 - Minju : **_4 hours_**
 - Prince : **_ hours_**
 
