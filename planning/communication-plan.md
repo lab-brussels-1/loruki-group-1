@@ -20,21 +20,25 @@
 
 ## Availability
 
-<<<<<<< HEAD
-| Day         |         Monday          |        Tuesday        | Wednesday  |        Thursday        |         Friday         | Saturday   | Sunday     |
-| ----------- | :---------------------: | :-------------------: | :--------: | :--------------------: | :--------------------: | ---------- | ---------- |
-| _Carsiti_   |        9am - 1pm        |       9am - 1pm       | 9am - 1pm  |       9am - 11am       |       1pm - 4pm        |            |            |
-| _Maria_     |        9am - 4pm        |       9am - 4pm       | 9am - 11am |       9am - 4pm        |       9am - 4pm        |            |            |
-| _Minju_     |       10am - 1pm        |      10am - 11am      | 11pm - 2am |      10am - 11am       |      10am - 12pm       | -          | -          |
-| _zerubabel_ | 10am - 4pm, 10pm - 12pm | 9am - 5pm, 9pm - 12pm | 9am - 5pm  | 9am - 4pm, 10pm - 12pm | 9am - 4pm, 10pm - 12pm | 11am - 7pm | 9pm - 12am |
-=======
-| Day         |         Monday          |        Tuesday        |        Wednesday        |        Thursday        |         Friday         |  Saturday  |   Sunday   |
-| ----------- | :---------------------: | :-------------------: | :---------------------: | :--------------------: | :--------------------: | :--------: | :--------: |
-| _Carsiti_   |                         |                       |                         |                        |                        |            |            |
-| _Maria_     |        9am - 4pm        |       9am - 4pm       |       9am - 11am        |       9am - 4pm        |       9am - 4pm        |            |            |
-| _Minju_     |  10am - 1pm, 11pm-3pm   | 10am - 11am, 11pm-3pm | 10am - 12am, 11pm - 2am | 10am - 12am, 11pm-3pm  | 10am - 12pm, 11pm-3pm  |     -      |     -      |
-| _zerubabel_ | 10am - 4pm, 10pm - 12pm | 9am - 5pm, 9pm - 12pm |        9am - 5pm        | 9am - 4pm, 10pm - 12pm | 9am - 4pm, 10pm - 12pm | 11am - 7pm | 9pm - 12am |
->>>>>>> e40062eeec7807c0a1cb330f17a3d2ccb09aca99
+<<<<<<< HEAD | Day | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday
+| Sunday | | ----------- | :---------------------: | :-------------------: |
+:--------: | :--------------------: | :--------------------: | ---------- |
+---------- | | _Carsiti_ | 9am - 1pm | 9am - 1pm | 9am - 1pm | 9am - 11am |
+1pm - 4pm | | | | _Maria_ | 9am - 4pm | 9am - 4pm | 9am - 11am | 9am - 4pm |
+9am - 4pm | | | | _Minju_ | 10am - 1pm | 10am - 11am | 11pm - 2am | 10am - 11am
+| 10am - 12pm | - | - | | _zerubabel_ | 10am - 4pm, 10pm - 12pm | 9am - 5pm,
+9pm - 12pm | 9am - 5pm | 9am - 4pm, 10pm - 12pm | 9am - 4pm, 10pm - 12pm |
+11am - 7pm | 9pm - 12am | ======= | Day | Monday | Tuesday | Wednesday |
+Thursday | Friday | Saturday | Sunday | | ----------- | :---------------------:
+| :-------------------: | :---------------------: | :--------------------: |
+:--------------------: | :--------: | :--------: | | _Carsiti_ | | | | | | | | |
+_Maria_ | 9am - 4pm | 9am - 4pm | 9am - 11am | 9am - 4pm | 9agitm - 4pm | | | |
+_Minju_ | 10am - 1pm, 11pm-3pm | 10am - 11am, 11pm-3pm | 10am - 12am, 11pm - 2am
+| 10am - 12am, 11pm-3pm | 10am - 12pm, 11pm-3pm | - | - | | _zerubabel_ | 10am -
+4pm, 10pm - 12pm | 9am - 5pm, 9pm - 12pm | 9am - 5pm | 9am - 4pm, 10pm - 12pm |
+9am - 4pm, 10pm - 12pm | 11am - 7pm | 9pm - 12am |
+
+> > > > > > > e40062eeec7807c0a1cb330f17a3d2ccb09aca99
 
 ## Communication tools
 
