@@ -1,53 +1,94 @@
-# (project name)
+# LORUKI WEBSITE
 
-<!-- describe your project -->
+> The goal of **Loruki-Group-1** team project is to rebuild the loruki-website
+> tutorial from Traversy Media. home page in a new repository.  
+> While our main focus is on using`Agile development` and the practicing
+> `planning and collaboration` throughout the project we have also decided to
+> enhance the given web page in order to make it pretty.
 
-## Getting Started
+## Table of contents
 
-<!-- a guide to using this repository -->
+- [Loruki Website](#Loruki website)
+  - [Table of contents](#table-of-contents)
+  - [Team-members](#team-members)
+  - [General info](#general-info)
+  - [Screenshots](#screenshots)
+  - [Technologies](#technologies)
+  - [Setup](#setup)
+  - [Code Examples](#code-examples)
+  - [Features](#features)
+  - [Status](#status)
+  - [Our style of working together](#our-style-of-working-together)
+  - [Contact](#contact)
 
-1. `git clone git@github.com:HackYourFutureBelgium/template-markdown.git`
-2. `cd template-markdown`
-3. `npm install`
+## Team-members
 
-## Code Quality Checks
+- [MMikhailova](https://github.com/MMikhailova)
+- [Carsiti](https://github.com/Carsiti)
+- [Zerubabel4](https://github.com/Zerubabel4)
+- [minjupgeorge](https://github.com/minjupgeorge)
 
-- `npm run format`: Makes sure all the code in this repository is well-formatted
-  (looks good).
-- `npm run lint:ls`: Checks to make sure all folder and file names match the
-  repository conventions.
-- `npm run lint:md`: Will lint all of the Markdown files in this repository.
-- `npm run lint:css`: Will lint all of the CSS files in this repository.
-- `npm run validate:html`: Validates all HTML files in your project.
-- `npm run spell-check`: Goes through all the files in this repository looking
-  for words it doesn't recognize. Just because it says something is a mistake
-  doesn't mean it is! It doesn't know every word in the world. You can add new
-  correct words to the [./.cspell.json](./.cspell.json) file so they won't cause
-  an error.
-- `npm run accessibility -- ./path/to/file.html`: Runs an accessibility analysis
-  on all HTML files in the given path and writes the report to
-  `/accessibility_report`
+## General info
 
-## Continuous Integration (CI)
+A simple website build using `CSS` and `HTML` , the goal is learning development
+strategy and project management.
 
-When you open a PR to `main`/`master` in your repository, GitHub will
-automatically do a linting check on the code in this repository, you can see
-this in the[./.github/workflows/lint.yml](./.github/workflows/lint.yml) file.
+## Screenshots
 
-If the linting fails, you will not be able to merge the PR. You can double check
-that your code will pass before pushing by running the code quality scripts
-locally.
+![Example screenshot]
 
-## Repo Setup
+## Technologies
 
-- Give each member _write_ access to the repo (if it's a group project)
-- Turn on GitHub Pages and put a link to your website in the repo's description
-- Turn on GitHub Actions
-- in the _Branches_ section of your repo's settings make sure:
-  - The repository
-    [requires a review](https://github.blog/2018-03-23-require-multiple-reviewers/)
-    before pull requests can be merged.
-  - The `master`/`main` branch must "_Require status checks to pass before
-    merging_"
-  - The `master`/`main` branch must "_Require require branches to be up to date
-    before merging_"
+- HTML
+- CSS
+- VS code
+
+## Setup
+
+open index.html in your browser and enjoy!
+
+## Code Examples
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="./client/assets/favicon.ico" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>loruli-group-1</title>
+
+    <link href="./styles/index.css" rel="stylesheet" />
+  </head>
+  <body></body>
+</html>
+```
+
+## Features
+
+List of features ready and TODOs for future development
+
+- Title
+- Navigation links
+- Main text
+- Images
+- Footer
+
+To-do list:
+
+- Add some styling
+
+## Status
+
+Project is: In progress
+
+## Our style of working together
+
+Every team member in our loruki-group-1 is “agile” ,ie they're able to quickly
+adapt or evolve in response to changing circumstances. Being able to break down
+barriers in the workplace in order to meet changing requirements, advancements,
+or technologies is essential for agility at work.
+
+## Contact
+
+By [@HYF-team](https://github.com/lab-brussels-1/)
