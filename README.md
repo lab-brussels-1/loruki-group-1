@@ -45,7 +45,7 @@ open index.html in your browser and enjoy!
     <meta charset="UTF-8" />
     <link rel="icon" type="image/svg+xml" href="./client/assets/favicon.ico" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>loruli-group-1</title>
+    <title>loruki-group-1</title>
 
     <link href="./styles/index.css" rel="stylesheet" />
   </head>
