@@ -1,4 +1,4 @@
-## Must Haves
+# Must Haves
 
 > these are necessary for basic usability
 
