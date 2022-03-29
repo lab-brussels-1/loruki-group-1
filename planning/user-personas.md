@@ -24,7 +24,7 @@ loruki-website tutorial from Traversy Media.
   collections.
 - **Frustrations**: Dona finds it very difficult to store her photos of same
   plant species with high resolution using current cloud storage services. she
-  also gets frustrated wnen she waits for long time to get downloaded.
+  also gets frustrated when she waits for long time to get downloaded.
 - **Scenario 1**: Dona has registered for an upcoming conference in June in
   switzerland where she needs to present her work. In order to participate in
   this conference, she wants to upload her files and images in a secure site.
