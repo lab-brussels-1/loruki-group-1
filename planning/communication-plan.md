@@ -11,7 +11,7 @@
 ## Communication Schedule
 
 | Day       |  How  | The topic of discussion                  |
-| --------- | :---: | ---------------------------------------  |
+| --------- | :---: | ---------------------------------------- |
 | Monday    | 10:00 | Planning                                 |
 | Tuesday   | 10:00 | Discuss progress/Development             |
 | Wednesday | 10:00 | Closing issues and discusswebsite design |
@@ -20,12 +20,12 @@
 
 ## Availability
 
-| Day         |         Monday          |        Tuesday        | Wednesday  |        Thursday        |         Friday         |  Saturday  |   Sunday   |
-| ----------- | :---------------------: | :-------------------: | :--------: | :--------------------: | :--------------------: | :--------: | :--------: |
-| _Carsiti_   |                         |                       |            |                        |                        |            |            |
-| _Maria_     |        9am - 4pm        |       9am - 4pm       | 9am - 11am |       9am - 4pm        |       9am - 4pm        |            |            |
-| _Minju_     |       10am - 1pm, 11pm-3pm        |      10am - 11am, 11pm-3pm      | 10am - 12am,  11pm - 2am |      10am - 12am, 11pm-3pm       |      10am - 12pm, 11pm-3pm      |     -      |     -      |
-| _zerubabel_ | 10am - 4pm, 10pm - 12pm | 9am - 5pm, 9pm - 12pm | 9am - 5pm  | 9am - 4pm, 10pm - 12pm | 9am - 4pm, 10pm - 12pm | 11am - 7pm | 9pm - 12am |
+| Day         |         Monday          |        Tuesday        |        Wednesday        |        Thursday        |         Friday         |  Saturday  |   Sunday   |
+| ----------- | :---------------------: | :-------------------: | :---------------------: | :--------------------: | :--------------------: | :--------: | :--------: |
+| _Carsiti_   |                         |                       |                         |                        |                        |            |            |
+| _Maria_     |        9am - 4pm        |       9am - 4pm       |       9am - 11am        |       9am - 4pm        |       9am - 4pm        |            |            |
+| _Minju_     |  10am - 1pm, 11pm-3pm   | 10am - 11am, 11pm-3pm | 10am - 12am, 11pm - 2am | 10am - 12am, 11pm-3pm  | 10am - 12pm, 11pm-3pm  |     -      |     -      |
+| _zerubabel_ | 10am - 4pm, 10pm - 12pm | 9am - 5pm, 9pm - 12pm |        9am - 5pm        | 9am - 4pm, 10pm - 12pm | 9am - 4pm, 10pm - 12pm | 11am - 7pm | 9pm - 12am |
 
 ## Communication tools
 
