@@ -20,6 +20,7 @@
 
 ## Availability
 
+<<<<<<< HEAD
 <<<<<<< HEAD | Day | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday
 | Sunday | | ----------- | :---------------------: | :-------------------: |
 :--------: | :--------------------: | :--------------------: | ---------- |
@@ -39,6 +40,9 @@ _Minju_ | 10am - 1pm, 11pm-3pm | 10am - 11am, 11pm-3pm | 10am - 12am, 11pm - 2am
 9am - 4pm, 10pm - 12pm | 11am - 7pm | 9pm - 12am |
 
 > > > > > > > e40062eeec7807c0a1cb330f17a3d2ccb09aca99
+=======
+
+>>>>>>> 98efee419420fa3c721fd791753cadfb01f4538e
 
 ## Communication tools
 
