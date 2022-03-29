@@ -28,3 +28,11 @@ loruki-website tutorial from Traversy Media.
 - **Scenario 1**: Dona has registered for an upcoming conference in June in
   switzerland where she needs to present her work. In order to participate in
   this conference, she wants to upload her files and images in a secure site.
+
+## Development Company
+
+- **Bio**: Benly is a new development company created by 2 founders.
+- **Needs/Goals**: The founders need to put some sofware to start.
+- **Frustrations**: The founders are have lack of knowledge in IT.
+- **Scenario 1**: The company they plan should launching in 3 months. So they
+  need to get the sofware as soon as possible
