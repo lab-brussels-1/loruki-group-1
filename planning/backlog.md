@@ -2,7 +2,7 @@
 
 > these are necessary for basic usability
 
-**Home Page**
+## Home Page
 
 - As a junior developer I want to have a demo version to be sure that the
   platform meets all project requirements
