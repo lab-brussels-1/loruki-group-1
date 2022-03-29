@@ -43,7 +43,13 @@
 
 ## Daily meetup
 
-- _Zoom Call at 10 am_
+| Day       |  Zoom call         | 
+| --------- | :---:              | 
+| Monday    | 10:00              |
+| Tuesday   | 10:00 am,10:pm     |
+| Wednesday | -                  | 
+| Thursday  | 10:00              |
+| Friday    | 10:00              | 
 
 ## Asking for Help
 
