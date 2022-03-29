@@ -9,7 +9,6 @@
 ## Table of contents
 
 - [Loruki Website](#Loruki website)
- 
 
 ## Team-members
 
