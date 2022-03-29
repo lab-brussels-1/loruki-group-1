@@ -9,17 +9,6 @@
 ## Table of contents
 
 - [Loruki Website](#Loruki website)
-  - [Table of contents](#table-of-contents)
-  - [Team-members](#team-members)
-  - [General info](#general-info)
-  - [Screenshots](#screenshots)
-  - [Technologies](#technologies)
-  - [Setup](#setup)
-  - [Code Examples](#code-examples)
-  - [Features](#features)
-  - [Status](#status)
-  - [Our style of working together](#our-style-of-working-together)
-  - [Contact](#contact)
 
 ## Team-members
 
