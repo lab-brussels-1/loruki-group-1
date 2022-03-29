@@ -40,3 +40,9 @@ The project deadline is **Two weeks**.
   - each of your individual skill levels
   - amount of time available to work on the project
 -->
+
+### Communication
+
+1. Discord
+2. Zoom
+3. GitHub discussion
