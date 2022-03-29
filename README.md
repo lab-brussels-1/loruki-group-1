@@ -1,7 +1,7 @@
 # LORUKI WEBSITE
 
-> The goal of **Loruki-Group-1** team project is to rebuild the loruki-website tutorial from Traversy Media. 
-> home page in a new repository.  
+> The goal of **Loruki-Group-1** team project is to rebuild the loruki-website
+> tutorial from Traversy Media. home page in a new repository.  
 > While our main focus is on using`Agile development` and the practicing
 > `planning and collaboration` throughout the project we have also decided to
 > enhance the given web page in order to make it pretty.
@@ -60,8 +60,7 @@ open index.html in your browser and enjoy!
 
     <link href="./styles/index.css" rel="stylesheet" />
   </head>
-  <body>
-  </body>
+  <body></body>
 </html>
 ```
 
@@ -85,7 +84,10 @@ Project is: In progress
 
 ## Our style of working together
 
-Every team member in our loruki-group-1 is “agile” ,ie they're able to quickly adapt or evolve in response to changing circumstances. Being able to break down barriers in the workplace in order to meet changing requirements, advancements, or technologies is essential for agility at work.
+Every team member in our loruki-group-1 is “agile” ,ie they're able to quickly
+adapt or evolve in response to changing circumstances. Being able to break down
+barriers in the workplace in order to meet changing requirements, advancements,
+or technologies is essential for agility at work.
 
 ## Contact
 
