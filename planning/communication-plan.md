@@ -39,10 +39,6 @@ _Carsiti_ | | | | | | | | | _Maria_ | 9am - 4pm | 9am - 4pm | 9am - 11am | 9am -
 12pm | 9am - 5pm | 9am - 4pm, 10pm - 12pm | 9am - 4pm, 10pm - 12pm | 11am - 7pm
 | 9pm - 12am |
 
-> > > > > > > # e40062eeec7807c0a1cb330f17a3d2ccb09aca99
-
-> > > > > > > 98efee419420fa3c721fd791753cadfb01f4538e
-
 ## Communication tools
 
 - Discord
