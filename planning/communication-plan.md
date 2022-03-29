@@ -20,12 +20,19 @@
 
 ## Availability
 
-| Day         |         Monday          |        Tuesday        |        Wednesday        |        Thursday        |         Friday         |  Saturday  |   Sunday   |
-| ----------- | :---------------------: | :-------------------: | :---------------------: | :--------------------: | :--------------------: | :--------: | :--------: |
-| _Carsiti_   |                         |                       |                         |                        |                        |            |            |
-| _Maria_     |        9am - 4pm        |       9am - 4pm       |       9am - 11am        |       9am - 4pm        |       9am - 4pm        |            |            |
-| _Minju_     |  10am - 1pm, 11pm-3pm   | 10am - 11am, 11pm-3pm | 10am - 12am, 11pm - 2am | 10am - 12am, 11pm-3pm  | 10am - 12pm, 11pm-3pm  |     -      |     -      |
-| _zerubabel_ | 10am - 4pm, 10pm - 12pm | 9am - 5pm, 9pm - 12pm |        9am - 5pm        | 9am - 4pm, 10pm - 12pm | 9am - 4pm, 10pm - 12pm | 11am - 7pm | 9pm - 12am |
+| Day         |         Monday           |        Tuesday         |       Wednesday         |        Thursday         |         Friday          |  Saturday   |   Sunday    |
+| ----------- | :----------------------: | :--------------------: | :---------------------: | :---------------------: | :---------------------: | :---------: | :---------: |
+| _Maria_     |  9am - 4pm, 9pm - 11pm   | 9am - 4pm, 9pm - 11pm  | 9am - 12pm, 9pm - 11pm  | 9am - 4pm, 9pm - 11pm   | 9am - 4pm, 9pm - 11pm   | 11am - 1pm  | 9pm - 12am  |
+| _Minju_     |        1pm - 5pm         |       9pm - 1pm        |       1pm - 6pm         |       1pm - 6pm         |       12pm - 4pm        | 9pm - 1pm   | 12pm - 6pm  |
+| _zerubabel_ | 10am - 4pm, 10pm - 12pm  | 9am - 6pm, 9pm - 11pm  |       9am - 5pm         | 9am - 4pm, 10pm - 12pm  | 9am - 4pm, 10pm - 12pm  | 11am - 7pm  | 9pm - 12am  |
+| _Carsiti_   |       10pm - 1am         |       9pm - 1pm        |       9pm - 1am         |       10pm - 1am        |       12pm -4pm         | 9pm - 1pm   |             |
+
+### How many hours everyone has per day
+
+- Maria: _5h_;
+- Minju: _4h_;
+- zerubabel: _6h_;
+- Carsiti: _4h_;
 
 ## Communication tools
 
@@ -33,13 +40,6 @@
 - GitHub pages discussion
 - Zoom
 - Issues
-
-## Hours Spent per day
-
-- Carsiti : **_ hours_**
-- Maria : **_5 hours_**
-- Minju : **_5 hours_**
-- Zerubabel : **_6 hours_**
 
 ## Daily meetup
 

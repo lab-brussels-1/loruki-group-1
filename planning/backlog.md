@@ -14,6 +14,7 @@
     - [ ] _there is a main text in the page with helpful info and links_
   - As a user I can learn even more about trees
     - [ ] _there is an aside with links for further reading_
+ 
 - **Home Page** Maria
 - As a junior developer I want to have a demo version to be sure that the
   platform meets all project requirements
@@ -24,6 +25,7 @@
 - As a junior developer I want to know what languages are supported by Loruki so
   I can use them for my work
 - [x] _Clearly shows all the supported languages on the home-page_
+
 
 ## Should Haves
 
