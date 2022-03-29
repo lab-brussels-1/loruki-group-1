@@ -21,7 +21,7 @@ The project deadline is **Two weeks**.
 ### Availability
 
 - Each team member is available 5-6 hours per day.
-- [check our communicatiom](./communication-plan.md)
+- [check our communication plan](./communication-plan.md)
 
 ### Technology
 
