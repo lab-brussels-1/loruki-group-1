@@ -102,7 +102,7 @@ img {
   font-size: 16px;
 }
 
-.showcase-form input:focus {
+.showcase-form button:focus {
   outline: none;
 }
 
