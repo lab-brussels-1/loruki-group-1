@@ -81,3 +81,22 @@ More info about our platform with a logos and more
 ## Loruki Main Information:CSS
 
 - [ ] importing the right font,style,language logo
+
+---
+
+## Loruki footer
+
+- [ ] Website name and rights.
+- [ ] Home,Features,Docs button.
+- [ ] social link with logo.
+
+## Loruki footer:HTML
+
+- [ ] Website name and rights.
+- [ ] buttons.
+- [ ] social links.
+
+## Loruki footer:CSS
+
+- [ ] Readable font and size
+- [ ] social media icons.
