@@ -55,5 +55,5 @@
 
 - **Docs Page**
   - As a user I can navigate the web page from a navbar
-    - [ ] _there is a Docs page which contains some inrfomation regarding how to work with loruki website_.
-
+    - [ ] _there is a Docs page which contains some inrfomation regarding how to
+          work with loruki website_.
