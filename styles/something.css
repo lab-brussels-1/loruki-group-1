@@ -47,6 +47,15 @@ img {
   height: 100%;
 }
 
+.grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 20px;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+}
+
 /* Showcase */
 
 .showcase {
@@ -147,13 +156,4 @@ img {
 
 .btn:hover {
   transform: scale(0.98);
-}
-
-.showcase .grid {
-  display: grid;
-  grid-template-columns: repeat(2, 1fr);
-  gap: 20px;
-  align-items: center;
-  justify-content: center;
-  height: 100%;
 }
