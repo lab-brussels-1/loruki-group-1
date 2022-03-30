@@ -83,6 +83,7 @@ img {
 .showcase-form .form-control {
   margin: 30px 0;
 }
+
 .showcase-form input[type="text"],
 .showcase-form input[type="email"] {
   border: 0;
@@ -148,7 +149,7 @@ img {
   transform: scale(0.98);
 }
 
-.grid {
+.showcase .grid {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
   gap: 20px;
