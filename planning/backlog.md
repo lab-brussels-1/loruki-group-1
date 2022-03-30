@@ -4,17 +4,20 @@
 
 > these are necessary for basic usability
 
-- **Home Page**
+- **Home Page** Dona
 
-  - As a user I can read the title of the page
-    - [ ] _there is a prominent title at the top of the web page_
-  - As a user I can read an introduction to this project
-    - [ ] _there is a section directly under the navbar describing the project's
-          goals_
-  - As a user I can learn about trees
-    - [ ] _there is a main text in the page with helpful info and links_
-  - As a user I can learn even more about trees
-    - [ ] _there is an aside with links for further reading_
+  - As a Phd Scholar I want to have a demo version to be sure that the platform
+    meets all security requirements
+  - [x] _The user should be able to receive a demo version of the site to her
+        email address_
+  - As a Phd Scholar I can enetr the details in a form with submit button.
+    - [x] \_there is a section directly under the showcase describes
+          deployments,published projects and projects of her thesis.
+  - As a Phd scholar I can store wide variety speciecs of plant images.
+    - [x] \_there is a cloud hosting in the main section of the page to store
+          images.
+  - As a Phd Scholar I can contact lourki to learn more about her project
+    - [x] _there is a footer with contact info_ and links to social media
 
 - **Home Page** Maria
 - As a junior developer I want to have a demo version to be sure that the
@@ -26,7 +29,6 @@
 - As a junior developer I want to know what languages are supported by Loruki so
   I can use them for my work
   - [x] _Clearly shows all the supported languages on the home-page_
-  
 - **Home Page** Benly
 - As a new development company I want to have a demo version to be sure that the
   platform meets all project requirements
@@ -34,25 +36,24 @@
         email address_
 - As a development company I want to know how to install Loruki
   - [x] _There should be a terminal command on how to install Loruki_
-- As a development company I want to know what languages are supported by Loruki so
-  I can use them for my work
+- As a development company I want to know what languages are supported by Loruki
+  so I can use them for my work
   - [x] _Clearly shows all the supported languages on the home-page_
 
 ## Should Haves
 
 > will complete the user experience, but are not necessary
 
-- **Home Page**
+- **Feature Page**
+
   - As a user I can navigate the web page from a navbar
-    - [ ] _there is a navbar at the top of the page with links to the different
-          sections_
-  - As a user I can contact us to learn more about our project
-    - [ ] _there is a footer with contact info_
+    - [ ] _there is a feature page which contains some pictures and features_.
 
 ## Could Haves
 
 > would be really cool ... if there's time
 
-- **Home Page**
-  - as a user will smile (or roll their eyes) when they read our page
-    - [ ] _there are some silly animations_
+- **Docs Page**
+  - As a user I can navigate the web page from a navbar
+    - [ ] _there is a Docs page which contains some inrfomation regarding how to
+          work with loruki website_.
