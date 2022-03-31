@@ -44,10 +44,7 @@ Collaboration than on the final result.
 
 ### What parts of your plan went as expected?
 
--Header
--Showcase(Form and logo)
--Main info
--Footer
+-Header -Showcase(Form and logo) -Main info -Footer
 
 ### What parts of your plan did not work out?
 
