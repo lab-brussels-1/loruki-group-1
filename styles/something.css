@@ -40,22 +40,6 @@ img {
   width: 100%;
 }
 
-.flex {
-  display: flex;
-  justify-content: center;
-  align-items: space-between;
-  height: 100%;
-}
-
-.grid {
-  display: grid;
-  grid-template-columns: repeat(2, 1fr);
-  gap: 20px;
-  align-items: center;
-  justify-content: center;
-  height: 100%;
-}
-
 /* Navbar */
 .navbar {
   background-color: var(--primary-color);
@@ -146,6 +130,10 @@ img {
   -ms-transform: skewY(-3deg);
 }
 
+/* Stats */
+.stats {
+  padding-top: 100px;
+}
 /* Utilities */
 
 .container {
@@ -181,4 +169,8 @@ img {
 
 .btn:hover {
   transform: scale(0.98);
+}
+
+.grid-3 {
+  grid-template-columns: repeat(3, 1fr);
 }
