@@ -39,17 +39,15 @@ Collaboration than on the final result.
 
 - we have created issues with helpful labels and milestones for all must have
   user stories in our Development strategy.
-- we have successfully rebuilt Title
 - we have changed wireframe due to updated development plan
 - our Project board reflects our Strategy
 
 ### What parts of your plan went as expected?
 
-- Title development
-- Navgation Links
-- Main info
-- Images
-- Footer
+-Header
+-Showcase(Form and logo)
+-Main info
+-Footer
 
 ### What parts of your plan did not work out?
 
