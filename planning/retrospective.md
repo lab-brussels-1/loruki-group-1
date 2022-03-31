@@ -1,6 +1,7 @@
 # Retrospective
 
-The LORUKI website rebuilt project our team focused more on Planning and Collaboration than on the final result. 
+The LORUKI website rebuilt project our team focused more on Planning and
+Collaboration than on the final result.
 
 ## Stop Doing
 
@@ -15,15 +16,17 @@ The LORUKI website rebuilt project our team focused more on Planning and Collabo
 - Create issues with clear and helpful labels, milestones for all things in the
   Project scope so we can track our progress
 - Review PRs before merging
-- Encourage each team members to put their problems in discussion forum than one to one messaging
-- Conduct Team meeting as per the schedule.
--Send Meeting Agenda before meeting and inform team members about 'minutes of meeting' after the discussion.
+- Encourage each team members to put their problems in discussion forum than one
+  to one messaging
+- Conduct Team meeting as per the schedule. -Send Meeting Agenda before meeting
+  and inform team members about 'minutes of meeting' after the discussion.
 
 ## Start Doing
 
 - As a team, work on different tasks simultaneously to get result faster instead
   of waiting for the end of previous task.
-- First priority to complete the work assigned by the team and then  try to help other team members.
+- First priority to complete the work assigned by the team and then try to help
+  other team members.
 
 ## Lessons Learned
 
