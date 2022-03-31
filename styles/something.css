@@ -196,7 +196,7 @@ img {
   }
 }
 
-/*Tablets and under_Maria */
+/* Tablets and under_Maria */
 @media (max-width: 768px) {
   .grid,
   .showcase .grid,
