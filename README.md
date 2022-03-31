@@ -1,7 +1,8 @@
 # LORUKI WEBSITE
 
 > The goal of **Loruki-Group-1** team project is to rebuild the loruki-website
-> tutorial from Traversy Media.it is a platform to deploy web apps that can be used by a single user as well as a multi user projects.
+> tutorial from Traversy Media.it is a platform to deploy web apps that can be
+> used by a single user as well as a multi user projects.
 
 ## Table of contents
 
@@ -27,8 +28,8 @@
 
 ## General info
 
-A simple website build using `CSS` and `HTML` to deploy web apps and to mast development
-strategy and project management.
+A simple website build using `CSS` and `HTML` to deploy web apps and to mast
+development strategy and project management.
 
 ## Screenshots
 
