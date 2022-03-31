@@ -91,6 +91,7 @@ img {
 .showcase-text {
   animation: slideInFromLeft 1s ease-in;
 }
+
 .showcase-form {
   position: relative;
   top: 60px;
@@ -153,6 +154,7 @@ img {
   font-size: 20px;
   font-weight: bold;
 }
+
 /* Animations */
 @keyframes slideInFromLeft {
   0% {
@@ -193,6 +195,7 @@ img {
     transform: translateX(0);
   }
 }
+
 /*Tablets and under_Maria */
 @media (max-width: 768px) {
   .grid,
