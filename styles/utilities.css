@@ -34,8 +34,21 @@
   transform: scale(0.98);
 }
 
+/* Backgrounds & colored buttons */
+.bg-light,
+.btn-light {
+  background-color: var(--light-color);
+  color: #333;
+}
+
 .text-center {
   text-align: center;
+}
+
+.bg-dark,
+.btn-dark {
+  background-color: var(--dark-color);
+  color: #fff;
 }
 
 .flex {
@@ -56,6 +69,15 @@
 
 .grid-3 {
   grid-template-columns: repeat(3, 1fr);
+}
+
+.bg-primary a,
+.btn-primary a,
+.bg-secondary a,
+.btn-secondary a,
+.bg-dark a,
+.btn-dark a {
+  color: #fff;
 }
 
 /* Margin */

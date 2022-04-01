@@ -2,6 +2,9 @@
 
 :root {
   --primary-color: #047aed;
+  --secondary-color: #1c3fa8;
+  --dark-color: #002240;
+  --light-color: #f4f4f4;
 }
 
 * {
@@ -153,6 +156,28 @@ img {
 .stats .grid p {
   font-size: 20px;
   font-weight: bold;
+}
+
+/* Footer */
+.footer .social a {
+  margin: 0 10px;
+  color: rgb(255, 255, 255);
+}
+
+.fa-github:hover {
+  color: #000;
+}
+
+.fa-facebook:hover {
+  color: #1773ea;
+}
+
+.fa-instagram:hover {
+  color: #b32e87;
+}
+
+.fa-twitter:hover {
+  color: #1c9cea;
 }
 
 /* Animations */
