@@ -14,17 +14,20 @@ This website is a platform to host programs, sharing art works and more.
 
 ---
 
-## Site Title
+## Site Logo
 
-the site title is on the left side with a proper font and size.
+the site logo is on the left side with a proper font and size.
 
-### Site Title HTML
+- As a **user** I want to see a logo so that I can identify the website easily
+  - [x] _There is a clear logo in the header and footer sections_
 
-- [ ] title with html
+### Site Logo HTML
 
-### Site Title Css
+- [ ] Logo with html
 
-- [ ] style to left side the title
+### Site Logo Css
+
+- [ ] style to left side the logo
 
 ---
 
@@ -32,7 +35,18 @@ the site title is on the left side with a proper font and size.
 
 button that will lead to main page.
 
+- As a **user** I want to easily navigate the site
+  - [x] _There is a navigation bar with links to other pages of the
+        site(Features, Docs)_
 - [ ] Home,features,docs button for more descriptions and info,support
+
+### Navbar HTML
+
+- [ ] Navbar with html
+
+### Navbar Css
+
+- [ ] style to left side the navbar
 
 ---
 
@@ -42,6 +56,14 @@ a small and clear info about the website
 
 - [ ] we have a small description on the left side of the request form.
 - [ ] read more button.
+
+### Company Description HTML
+
+- [ ] Company Description with html
+
+### Company Description Css
+
+- [ ] style to left side the Company Description
 
 ---
 
