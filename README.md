@@ -1,14 +1,23 @@
 # LORUKI WEBSITE
 
 > The goal of **Loruki-Group-1** team project is to rebuild the loruki-website
-> tutorial from Traversy Media. home page in a new repository.  
-> While our main focus is on using`Agile development` and the practicing
-> `planning and collaboration` throughout the project we have also decided to
-> enhance the given web page in order to make it pretty.
+> tutorial from Traversy Media.it is a platform to deploy web apps that can be
+> used by a single user as well as a multi user projects.
 
 ## Table of contents
 
-- [Loruki Website](#Loruki website)
+- [Loruki Website](#Loruki-Website)
+  - [Table of contents](#table-of-contents)
+  - [Team-members](#team-members)
+  - [General info](#general-info)
+  - [Screenshots](#screenshots)
+  - [Technologies](#technologies)
+  - [Setup](#setup)
+  - [Code Examples](#code-examples)
+  - [Features](#features)
+  - [Status](#status)
+  - [Our style of working together](#our-style-of-working-together)
+  - [Contact](#contact)
 
 ## Team-members
 
@@ -19,12 +28,12 @@
 
 ## General info
 
-A simple website build using `CSS` and `HTML` , the goal is learning development
-strategy and project management.
+A simple website build using `CSS` and `HTML` to deploy web apps and to mast
+development strategy and project management.
 
 ## Screenshots
 
-![Example screenshot]
+![Example screenshot](./images/screenshot.png)
 
 ## Technologies
 
@@ -57,10 +66,11 @@ open index.html in your browser and enjoy!
 
 List of features ready and TODOs for future development
 
-- Title
+- Header
 - Navigation links
+- Demo form
 - Main text
-- Images
+- ClI and cloud
 - Footer
 
 To-do list:
