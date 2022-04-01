@@ -274,7 +274,7 @@ img {
   flex-wrap: wrap;
 }
 
-.languages .card {
+.language .card {
   text-align: center;
   margin: 18px 10px 40px;
   transition: transform 0.2s ease-in;
