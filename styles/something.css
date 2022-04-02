@@ -268,13 +268,14 @@ img {
     grid-row: 1;
   }
 }
+
 /* Languages */
 
 .languages .flex {
   flex-wrap: wrap;
 }
 
-.language .card {
+.languages .card {
   text-align: center;
   margin: 18px 10px 40px;
   transition: transform 0.2s ease-in;
