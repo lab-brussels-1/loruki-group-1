@@ -20,15 +20,14 @@
 
 ## Communication Schedule week2
 
-| Day       |  How  | The topic of discussion                  |
-| --------- | :---: | ---------------------------------------- |
-| Sunday    | 10:00 | website design sub pages                 |
-| Monday    | 10:00 | -                                        |
-| Tuesday   | 10:00 | Discuss progress/Development             |
-| Wednesday | 10:00 | Closing issues and discuss retro phase   |
-| Thursday  | 10:00 | check progress                           |
-| Friday    | 10:00 | Closing issues                           |
-
+| Day       |  How  | The topic of discussion                |
+| --------- | :---: | -------------------------------------- |
+| Sunday    | 10:00 | website design sub pages               |
+| Monday    | 10:00 | -                                      |
+| Tuesday   | 10:00 | Discuss progress/Development           |
+| Wednesday | 10:00 | Closing issues and discuss retro phase |
+| Thursday  | 10:00 | check progress                         |
+| Friday    | 10:00 | Closing issues                         |
 
 ## Availability Week1
 
@@ -41,14 +40,14 @@
 
 ## Availability Week2
 
-| Day         |         Monday           |        Tuesday         |       Wednesday         |        Thursday         |         Friday          |  Saturday   |   Sunday    |
-| ----------- | :----------------------: | :--------------------: | :---------------------: | :---------------------: | :---------------------: | :---------: | :---------: |
-| _Maria_     |         |          |   |   |  |  |   |
-| _Minju_     | 10am - 1pm, 10pm-12pm |  10am - 2pm,10pm-12pm   |   10am - 1pm,10pm-12pm   |  10am - 4pm  | 10am - 4pm      |   -     | 12pm - 6pm  |
-| _zerubabel_ |   |   |               |   |   |   |   |
-| _Carsiti_   |               |           |              |              |                |    |            
+| Day         |         Monday           |        Tuesday          |       Wednesday          |        Thursday         |         Friday         |  Saturday   |   Sunday    |
+| ----------- | :----------------------: | :---------------------: | :----------------------: | :---------------------: | :--------------------: | :---------: | :---------: |
+| _Maria_     |                          |                         |                          |                         |                        |             |             |
+| _Minju_     |  10am - 1pm, 10pm-12pm   |  10am - 2pm,10pm-12pm   |   10am - 1pm,10pm-12pm   |      10am - 4pm         |     10am - 4pm         |     -       | 12pm - 6pm  |
+| _zerubabel_ |                          |                         |                          |                         |                        |             |             |
+| _Carsiti_   |                          |                         |                          |                         |                        |             |             |
 
-### How many hours everyone has per day 
+### How many hours everyone has per day
 
 - Maria: _5h_;
 - Minju: _4h_;
@@ -66,22 +65,22 @@
 
 | Day       |     Zoom call     |
 | --------- | :---------------: |
-| Monday    |       10:00am     |
+| Monday    |      10:00am      |
 | Tuesday   | 10:00 am,10:00 pm |
 | Wednesday |         -         |
-| Thursday  |       10:00am     |
-| Friday    |       10:00am     |
+| Thursday  |      10:00am      |
+| Friday    |      10:00am      |
 
 ## Daily meetup week2
 
-| Day       |     Zoom call     |
-| --------- | :---------------: |
-| Sunday    |     10:00am       |
-| Monday    |       -           |
-| Tuesday   |     10:00am       |
-| Wednesday |     10:00am       |
-| Thursday  |     10:00am       |
-| Friday    |     10:00am       |
+| Day       | Zoom call |
+| --------- | :-------: |
+| Sunday    |  10:00am  |
+| Monday    |     -     |
+| Tuesday   |  10:00am  |
+| Wednesday |  10:00am  |
+| Thursday  |  10:00am  |
+| Friday    |  10:00am  |
 
 ## Asking for Help
 
