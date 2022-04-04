@@ -8,117 +8,133 @@ This website is a platform to host programs, sharing art works and more.
 
 ## Setup
 
-- [ ] Page title in html fill
-- [ ] Boilerplate in html fill
-- [ ] Css fill are linked to html
+- [x] Page title in html fill
+- [x] Boilerplate in html fill
+- [x] Css fill are linked to html
 
 ---
 
 ## Site Logo
 
-the site logo is on the left side with a proper font and size.
+> As a **user** I want to see a logo so that I can identify the website easily
 
-- As a **user** I want to see a logo so that I can identify the website easily
-  - [x] _There is a clear logo in the header and footer sections_
+There is a site logo is on the left side with a proper font and size.
+
+- [x] _There is a clear logo in the header and footer sections_
 
 ### Site Logo HTML
 
-- [ ] Logo with html
+- [x] Logo with html
 
 ### Site Logo Css
 
-- [ ] style to left side the logo
+- [x] Logo is positioned on left side of the site
 
 ---
 
 ## Navbar
 
-button that will lead to main page.
+> As a **user** I want to easily navigate the site
 
-- As a **user** I want to easily navigate the site
-  - [x] _There is a navigation bar with links to other pages of the
-        site(Features, Docs)_
-- [ ] Home,features,docs button for more descriptions and info,support
+- [x] _There is a navigation bar with links to all pages of the site(Home page,
+      Features, Docs)_
 
 ### Navbar HTML
 
-- [ ] Navbar with html
+- [x] Navbar with html
 
 ### Navbar Css
 
-- [ ] style to left side the navbar
+- [x] Positioned on the right side of the site
+- [x] Styled with a color and hover
 
 ---
 
 ## Company Description
 
-a small and clear info about the website
+> As a user I can understand what this site is about
 
-- [ ] we have a small description on the left side of the request form.
-- [ ] read more button.
+A small and clear info about the website
+
+- [x] _There is a small description on the left side of the request form_
+- [x] _"Read more" button_
 
 ### Company Description HTML
 
-- [ ] Company Description with html
+- [x] Company Description with html
 
 ### Company Description Css
 
-- [ ] style to left side the Company Description
+- [x] Styled to left side
 
 ---
 
 ## Request Form
 
-- [ ] There is request form for name,email,compony name.
-- [ ] send button .
+> As a **junior developer** I want to have a demo version to be sure that the
+> platform meets all project requirement
 
-## Request Form:HTML
+There is a request form that allow user to get a demo version of the site
 
-- [ ] Empty element that will be filled by the user.
-- [ ] send button.
+- [x] _There is request form for name, email, company name_
+- [x] _"Send" button_
 
-## Request Form:CSS
+### Request Form:HTML
 
-- [ ] Send button style and effect
-- [ ] Correct position
+- [x] Empty element that will be filled by the user
+- [x] "Send" button
+
+### Request Form:CSS
+
+- [x] Send button style and effect
+- [x] Correct position
 - [ ] Use the correct font
 
 ---
 
 ## Loruki Main Information
 
-More info about our platform with a logos and more
+> As a **Phd scholar** I want to store wide variety species of plant images.  
+> As a **company founder** I want to know how to install Loruki.  
+> As a **company founder** I want to see statistical data of the website so that
+> I can understand how much reliable the website is.  
+> As a **junior developer** I want to know what languages are supported by
+> Loruki so I can use them for my work.
 
-- [ ] How many Deployments,Published,Projects we have.
-- [ ] Cloud Hosting present.
-- [ ] Read more button.
-- [ ] Supported language.
+More information about our platform:
 
-## Loruki Main Information:HTML
+- [x] _How many Deployments,Published,Projects we have_
+- [x] _Cloud Hosting present_
+- [x] _Read more button_
+- [x] _Supported language_
 
-- [ ] add the correct code and spelling check.
-- [ ] formatting your code.
-- [ ] write visible information on your code.
+### Loruki Main Information:HTML
 
-## Loruki Main Information:CSS
+- [x] Add the correct code and spelling check
+- [x] Formatting your code
+- [x] Write visible information on your code
 
-- [ ] importing the right font,style,language logo
+### Loruki Main Information:CSS
+
+- [x] Importing the right font,style,language logo
 
 ---
 
 ## Loruki footer
 
-- [ ] Website name and rights.
-- [ ] Home,Features,Docs button.
-- [ ] social link with logo.
+> As a **user** I can contact Loruki team to learn more about the project
 
-## Loruki footer:HTML
+- [x] _Website name and rights_
+- [x] _Home, Features, Docs button_
+- [x] _Social link with logo_
 
-- [ ] Website name and rights.
-- [ ] buttons.
-- [ ] social links.
+### Loruki footer:HTML
 
-## Loruki footer:CSS
+- [x] Website name and rights
+- [x] Buttons
+- [x] Social links
 
-- [ ] Readable font and size
-- [ ] social media icons.
+### Loruki footer:CSS
+
+- [x] Readable font and size
+- [x] Social media icons
