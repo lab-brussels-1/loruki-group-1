@@ -174,6 +174,7 @@ img {
   grid-template-columns: 4fr 3fr;
 }
 
+/* features_main subheader */
 .features-main .card > i {
   margin-right: 20px;
 }
@@ -182,6 +183,9 @@ img {
   padding: 30px;
 }
 
+.features-main .card .fas{
+float: left;
+}
 .features-main .grid > *:first-child {
   grid-column: 1 / span 3;
 }
