@@ -42,14 +42,14 @@
 
 | Day         |         Monday           |        Tuesday          |       Wednesday          |        Thursday         |         Friday         |  Saturday   |   Sunday    |
 | ----------- | :----------------------: | :---------------------: | :----------------------: | :---------------------: | :--------------------: | :---------: | :---------: |
-| _Maria_     |                          |                         |                          |                         |                        |             |             |
+| _Maria_     |      8pm - 12am          |       8pm - 12am        |        8pm - 12am        |  10am-12pm, 8pm-12am    |  10am-12pm, 8pm-12am   | 8pm - 12am  |             |
 | _Minju_     |  10am - 1pm, 10pm-12pm   |  10am - 2pm,10pm-12pm   |   10am - 1pm,10pm-12pm   |      10am - 4pm         |     10am - 4pm         |     -       | 12pm - 6pm  |
 | _zerubabel_ |                          |                         |                          |                         |                        |             |             |
 | _Carsiti_   |                          |                         |                          |                         |                        |             |             |
 
 ### How many hours everyone has per day
 
-- Maria: _5h_;
+- Maria: _4h_;
 - Minju: _4h_;
 - zerubabel: _6h_;
 - Carsiti: _4h_;
