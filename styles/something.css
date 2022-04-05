@@ -176,7 +176,7 @@ img {
 
 /* Features_head_edit_minju */
 .features-head img,
-.docs-head img {
+.doc-head img {
   width: 200px;
   justify-self: flex-end;
 }
@@ -212,6 +212,9 @@ img {
 }
 
 /* Docs-minju */
+
+
+
 .docs-main h3 {
   margin: 20px 0;
 }
