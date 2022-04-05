@@ -295,14 +295,15 @@ img {
   }
 }
 
-/* Tablets and under_Maria */
+/* Tablets and under_Maria,minju added docs-main */
 @media (max-width: 768px) {
   .grid,
   .showcase .grid,
   .cli .grid,
   .cloud .grid,
   .stats .grid,
-  .features-main .grid {
+  .features-main .grid,
+  .docs-main .grid  {
     grid-template-columns: 1fr;
     grid-template-rows: 1fr;
   }
