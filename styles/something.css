@@ -212,23 +212,23 @@ img {
 }
 
 /* Docs-minju */
-.doc-main h3 {
+.docs-main h3 {
   margin: 20px 0;
 }
 
-.doc-main .grid {
+.docs-main .grid {
   grid-template-columns: 1fr 2fr;
   align-items: flex-start;
 }
 
-.doc-main nav li {
+.docs-main nav li {
   font-size: 17px;
   padding-bottom: 5px;
   margin-bottom: 5px;
   border-bottom: 1px #ccc solid;
 }
 
-.doc-main a:hover {
+.docs-main a:hover {
   font-weight: bold;
 }
 
