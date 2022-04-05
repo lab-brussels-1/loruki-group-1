@@ -204,6 +204,18 @@ pre {
   grid-template-columns: 4fr 3fr;
 }
 
+/* Features_head_edit_minju */
+.features-head img,
+.docs-head img {
+  width: 200px;
+  justify-self: flex-end;
+}
+
+.features-sub-head img {
+  width: 300px;
+  justify-self: flex-end;
+}
+
 /* features_main subheader */
 .features-main .card {
   height: 100%;
@@ -292,14 +304,15 @@ pre {
   }
 }
 
-/* Tablets and under_Maria */
+/* Tablets and under_Maria,minju added docs-main */
 @media (max-width: 768px) {
   .grid,
   .showcase .grid,
   .cli .grid,
   .cloud .grid,
   .stats .grid,
-  .features-main .grid {
+  .features-main .grid,
+  .docs-main .grid {
     grid-template-columns: 1fr;
     grid-template-rows: 1fr;
   }
