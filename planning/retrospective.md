@@ -15,7 +15,7 @@ Collaboration than on the final result.
   <!--Maria's suggestion:-->
 - Not asking for help when get stuck
     <!--zerubabel's suggestion:-->
-  -asking for help b/c i tried it on the previous project and it did't go well
+- asking for help b/c i tried it on the previous project and it did't go well
 
 ## Continue Doing
 
