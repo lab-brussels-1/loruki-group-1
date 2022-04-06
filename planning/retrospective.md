@@ -3,11 +3,17 @@
 The LORUKI website rebuilt project our team focused more on Planning and
 Collaboration than on the final result.
 
+<!--Maria's suggestion:-->
+
+"...our team focused more on Planning and Collaboration than on code change"
+
 ## Stop Doing
 
 - Overthinking about "How to help other team member to solve her issues"
 - Fine tune other's work
 - Try to do each step perfectly
+  <!--Maria's suggestion:-->
+- Not asking for help when get stuck
 
 ## Continue Doing
 
@@ -18,8 +24,9 @@ Collaboration than on the final result.
 - Review PRs before merging
 - Encourage each team members to put their problems in discussion forum than one
   to one messaging
-- Conduct Team meeting as per the schedule. -Send Meeting Agenda before meeting
-  and inform team members about 'minutes of meeting' after the discussion.
+- Conduct Team meeting as per the schedule
+- Send Meeting Agenda before meeting and inform team members about 'minutes of
+  meeting' after the discussion.
 
 ## Start Doing
 
@@ -32,6 +39,9 @@ Collaboration than on the final result.
 
 - done better than perfect
 - don't commit directly to master branch
+<!--Maria's suggestions-->
+- use a new branch for every new task
+- don't push directly to master
 
 ---
 
@@ -48,11 +58,18 @@ Collaboration than on the final result.
 
 ### What parts of your plan did not work out?
 
--To make it more pretty. planned to use more styles in css.
+<!--Maria's suggestions-->
+
+Misunderstanding among team about some task
 
 ### Did you need to add things that weren't in your strategy?
 
-No
+<!--Maria's suggestions-->
+
+I would make the logo (Loruki name) responsive on mobile screens, now it's not.
+May be I would add photos for User Personas in the planning folder. I wouldn't
+add anything else since I think we have already achieved the goal of the
+project.
 
 ### Or remove extra steps?
 
