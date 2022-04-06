@@ -14,6 +14,8 @@ Collaboration than on the final result.
 - Try to do each step perfectly
   <!--Maria's suggestion:-->
 - Not asking for help when get stuck
+    <!--zerubabel's suggestion:-->
+  -asking for help b/c i tried it on the previous project and it did't go well
 
 ## Continue Doing
 
@@ -26,7 +28,9 @@ Collaboration than on the final result.
   to one messaging
 - Conduct Team meeting as per the schedule
 - Send Meeting Agenda before meeting and inform team members about 'minutes of
-  meeting' after the discussion.
+meeting' after the discussion.
+  <!--zerubabel's suggestion:-->
+- telling teammates every step and change before pushing PR
 
 ## Start Doing
 
