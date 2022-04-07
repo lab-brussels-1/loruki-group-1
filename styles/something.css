@@ -140,7 +140,7 @@ img {
   -ms-transform: skewY(-3deg);
 }
 
-/*Contact*/
+/*Contact Minju*/
 .contact-form {
   position: relative;
   background-color: dodgerblue;
@@ -179,14 +179,9 @@ select {
   resize: none;
 }
 
-.contact-form input[type="submit"] {
-  box-sizing: border-box;
-  background-color: beige;
+.contact-form button:focus {
   border: 2;
-  border-bottom: 1px solid #b4becb;
-  width: 50%;
-  padding: 3px;
-  font-size: 12px;
+  background-color: #d91616;
 }
 
 /* Docs */
@@ -410,6 +405,11 @@ pre {
     justify-self: center;
     margin: auto;
     animation: slideInFromBottom 1s ease-in;
+  }
+
+  .contact-form {
+    justify-self: center;
+    margin: auto;
   }
 
   .cli .grid > *:first-child {
