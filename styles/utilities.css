@@ -196,6 +196,9 @@
   grid-template-columns: repeat(3, 1fr);
 }
 
+.grid-2 {
+  grid-template-columns: repeat(2, 1fr);
+}
 /* Text colors */
 .text-primary {
   color: var(--primary-color);
