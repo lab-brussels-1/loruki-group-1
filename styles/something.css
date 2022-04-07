@@ -200,6 +200,7 @@ pre {
 }
 
 /* cloud */
+
 .cloud .grid {
   grid-template-columns: 4fr 3fr;
 }
@@ -261,6 +262,35 @@ pre {
 
 .fa-twitter:hover {
   color: #1c9cea;
+}
+
+/* Contacts_Maria */
+
+.contacts-head img {
+  width: 250px;
+  justify-self: flex-end;
+}
+
+.contacts-main .card {
+  height: 300px;
+  text-align: justify;
+}
+
+.contacts-main .card > img {
+  margin-right: 20px;
+}
+
+.contacts-main .grid {
+  padding: 30px;
+}
+
+.contacts-main .card img {
+  float: left;
+  width: 20%;
+}
+
+.contacts-main .card .fas {
+  float: left;
 }
 
 /* Animations */
