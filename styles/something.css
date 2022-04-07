@@ -200,6 +200,7 @@ pre {
 }
 
 /* cloud */
+
 .cloud .grid {
   grid-template-columns: 4fr 3fr;
 }
@@ -287,6 +288,7 @@ pre {
   float: left;
   width: 20%;
 }
+
 .contacts-main .card .fas {
   float: left;
 }
