@@ -199,8 +199,8 @@
 .grid-2 {
   grid-template-columns: repeat(2, 1fr);
 }
-/* Text colors */
 
+/* Text colors */
 .text-primary {
   color: var(--primary-color);
 }
