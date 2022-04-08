@@ -309,7 +309,7 @@ pre {
   color: #1c9cea;
 }
 
-/* Contacts_Maria */
+/* Team_Maria */
 
 .contacts-head img {
   width: 250px;
@@ -319,6 +319,7 @@ pre {
 .contacts-main .card {
   height: 300px;
   text-align: justify;
+  transition: transform 0.2s ease-in;
 }
 
 .contacts-main .card > img {
@@ -332,6 +333,10 @@ pre {
 .contacts-main .card img {
   float: left;
   width: 20%;
+}
+
+.contacts-main .card:hover {
+  transform: translateY(-15px);
 }
 
 .contacts-main .card .fas {
@@ -387,7 +392,8 @@ pre {
   .cloud .grid,
   .stats .grid,
   .features-main .grid,
-  .docs-main .grid {
+  .docs-main .grid,
+  .contacts-main .grid {
     grid-template-columns: 1fr;
     grid-template-rows: 1fr;
   }
