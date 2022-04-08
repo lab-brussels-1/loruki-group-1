@@ -335,10 +335,6 @@ pre {
   width: 20%;
 }
 
-.contacts-main .card:hover {
-  transform: translateY(-15px);
-}
-
 .contacts-main .card .fas {
   float: left;
 }
