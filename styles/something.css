@@ -287,26 +287,6 @@ pre {
   grid-column: 1 / span 2;
 }
 
-/* Languages */
-.languages .flex {
-  flex-wrap: wrap;
-}
-
-.languages .card {
-  text-align: center;
-  margin: 18px 10px 40px;
-  transition: transform 0.2s ease-in;
-}
-
-.languages .card h4 {
-  font-size: 20px;
-  margin-bottom: 10px;
-}
-
-.languages .card:hover {
-  transform: translateY(-15px);
-}
-
 /* Footer */
 .footer .social a {
   margin: 0 10px;
@@ -361,6 +341,26 @@ pre {
 
 .contacts-main .card .fas {
   float: left;
+}
+
+/* Languages */
+.languages .flex {
+  flex-wrap: wrap;
+}
+
+.languages .card {
+  text-align: center;
+  margin: 18px 10px 40px;
+  transition: transform 0.2s ease-in;
+}
+
+.languages .card h4 {
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+.languages .card:hover {
+  transform: translateY(-15px);
 }
 
 /* Animations */
